@@ -280,7 +280,6 @@ document.getElementById("btn-filter").addEventListener("click", function () {
   filtered = filtered.filter(
     (product) => product.price >= minPrice && product.price <= maxPrice
   );
-  // ✅ حدّث الفلترة الحالية في المتغير العام
   filterProducts = [...filtered];
 
   currentPage = 1;
