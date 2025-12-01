@@ -44,9 +44,5 @@ This project demonstrates pure **JavaScript (ES6+)** skills without relying on a
 ├── style.css     # Styling for the application
 ├── main.js       # Core logic (Fetching, Filtering, Cart Logic)
 └── README.md     # Project documentation
-## 💻 How to Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/simple-ecommerce-js.git](https://github.com/your-username/simple-ecommerce-js.git)
-2. Navigate to the project folder.
-Open index.html in your browser (or use Live Server in VS Code).
+
+
