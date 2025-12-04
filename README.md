@@ -1,4 +1,4 @@
-# 🛒 Simple E-commerce Store (Vanilla JS)
+# 🛒 Simple E-commerce Store 
 
 A dynamic front-end e-commerce application that fetches products from an external API and provides a seamless shopping experience with advanced filtering, sorting, and cart management capabilities.
 
